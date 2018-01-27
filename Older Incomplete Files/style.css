@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+.normal{
+font:Verdana, Arial, Helvetica, sans-serif;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+text-decoration:none;
+}
+
+td.small {
+	height:6px;
+}
+.tab_border{
+border:1px;
+border-color:#666666;
+border-style:dashed;
+font:Verdana, Arial, Helvetica, sans-serif;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+text-decoration:none;
+}
+.big{
+font:Verdana, Arial, Helvetica, sans-serif;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:18px;
+font-weight:bold;
+text-shadow:#CCCCCC;
+}
+.hyperlink{
+font:Verdana, Arial, Helvetica, sans-serif;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:15px;
+text-decoration:none;
+font-weight:300;
+color:#003300;
+}
+.hyperlinktop{
+font:Verdana, Arial, Helvetica, sans-serif;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:16px;
+text-decoration:none;
+color:#003300;
+}
+#tab.td{
+border:1px;
+border-color:#666666;
+border-style:dashed;
+border-width:1px;
+}

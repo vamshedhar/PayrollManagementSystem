@@ -1,0 +1,27 @@
+login -> display of allgroup as month-year wise selection (add nu or edit old) within each user order by category-> display of roll list -> select individual (read only) -> edit option.
+
+input new person. and edit details of old person.
+input new category. and edit members of any category.
+
+table heirarchy ::: 
+
+main page table
+	sub table of outputs
+		table of categories
+			table of person
+				table of day & date details.
+ 
+ 
+ 
+ 
+ 
+Sidebar categories :=>  order view all by :  
+				1) month and year
+				2) category
+				3) employee number
+				4) date of joining
+
+			edit percentage calculations of :
+				1) Dearness allowance
+				2) HRA
+				3) NPS

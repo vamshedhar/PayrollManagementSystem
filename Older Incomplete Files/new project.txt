@@ -1,0 +1,20 @@
+
+
+Types of List to be generated - 
+
+1)Salary Slip (Form) //must change
+
+2)Bank Transfer Slip (S.No., Acc No., Name, Amount)
+
+3)GPF Statement (Emp_no, name, desig, gpfamt, gpfloan, total ie gpfamt + loan) 
+	gpfamt = gpf + extra PF
+	
+4)NPS Statement (same as above)(but still needs confirmation)
+
+5)GIS Statement (SNo., name, emp_no, deisg, DOB, DOA, DOJ, basic pay, DA, Other allowance, total pay, GIS contri)
+
+6)Summary of Pay Bill (This is a addition list of the employees so that the net amount is not more than 5 lacs)
+	(add medicare)(also add NPS as Pf. IITR. Contri. to pay)
+	NPS is contributed by the IITR fund
+
+7)LEDGER (contains full info.) in a 3*7 form. <a href=
